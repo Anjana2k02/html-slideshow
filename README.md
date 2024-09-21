@@ -1,4 +1,4 @@
-# html-slideshow
+#Simple  Html-Slideshow
 smooth slideshow transition using html css javascript
 
 # Preview
